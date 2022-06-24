@@ -1,1 +1,3 @@
  This is a text created for testing automation framework.
+This is a text created for testing automation framework.
+This is a text created for testing automation framework.
